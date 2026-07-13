@@ -9,8 +9,3 @@ A Python text-based DNA analyzer that parses and analyzes an inputted FASTA-form
 **Complementary Strand Generator:** Generates the complementary strand of the inputted DNA sequence.
 
 **RNA Strand Generator:** Converts inputted DNA sequence into its mRNA sequence.
-
-## Project Structure
-dna-analyzer/
-├── README.md
-├── dna_analyzer.py
