@@ -10,3 +10,7 @@ A Python text-based DNA analyzer that parses and analyzes an inputted FASTA-form
 
 **RNA Strand Generator:** Converts inputted DNA sequence into its mRNA sequence.
 
+## Project Structure
+dna-analyzer/
+├── README.md
+├── dna_analyzer.py
