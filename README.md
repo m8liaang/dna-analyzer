@@ -1,5 +1,5 @@
 # DNA Analyzer
-A Python text-based DNA analyzer that parses and analyzes an inputted FASTA-formatted DNA sequence.
+A Python text-based DNA analyzer that parses and analyzes an inputted FASTA-formatted DNA sequence. The primary objective of this project was to practice programming in Python.
 
 ## Features
 | Component | Purpose |
