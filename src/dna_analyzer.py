@@ -1,8 +1,8 @@
-from valid_DNA_sequence import valid
-from base_counter import base_counter
+from valid_dna_sequence import valid
+from dna_base_counter import base_counter
 from gc_calculator import GC_content
 from complementary_generator import DNA_complement
-from mRNA_generator import RNA_generator
+from mrna_generator import RNA_generator
 
 def analyzer():
   
