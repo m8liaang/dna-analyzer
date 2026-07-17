@@ -17,3 +17,6 @@ def analyzer():
     GC_content(sequence)
     DNA_complement(sequence)
     RNA_generator(sequence)
+
+if __name__ == "__main__":
+    analyzer()
