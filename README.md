@@ -15,9 +15,11 @@ dna-analyzer/
 ├── data/
 │   └── demo.ipynb
 ├── src/
-│   ├── base-counter.py
-│   ├── gc.py
-│   ├── complementary.py
-│   ├── mRNA.py
+│   ├── complementary_generator.py
+│   ├── dna_analyzer.py
+│   ├── dna_base_counter.py
+│   ├── gc_calculator.py
+│   ├── mrna_generator.py
+│   ├── valid_dna_sequence.py
 └── README.md
 ```
