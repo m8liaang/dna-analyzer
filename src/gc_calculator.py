@@ -1,3 +1,5 @@
+# GC Content Calculator
+
 def GC_content(sequence):
   G_counts = sequence.count('G')
   C_counts = sequence.count('C')
